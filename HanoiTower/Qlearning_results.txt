@@ -1,0 +1,192 @@
+*************The results of Q learning*************
+
+The optimal Q values and optimal policies are: 
+
+State0: -2.77058     a13
+State1: -8.2715     a13
+State2: -17.2637     a32
+State3: -14.6302     a32
+State4: -5.41207     a32
+State5: -14.6302     a23
+State6: -2.32067     a32
+State7: -1.82737     a32
+State8: -2.32067     a32
+State9: -2.66004     a13
+State10: -2.66004     a23
+State11: -2.66004     a23
+The number of exploration is : 0
+The number of exploitation is : 9
+The total number of iteration is : 9
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 52.157        
+State1: 93.8239        
+State2: 97.6793     a23
+State3: 97.34     None
+State4: 90.1697        
+State5: 97.34        
+State6: 96.67     a13
+State7: -1.82737        
+State8: -2.32067        
+State9: 95.835        
+State10: 95.835        
+State11: -2.66004        
+The number of exploration is : 1
+The number of exploitation is : 10
+The total number of iteration is : 11
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 65.268     a12
+State1: 86.7109     a13
+State2: 94.4066     a23
+State3: 95.4714     None
+State4: 67.3394     a32
+State5: 88.4716     a23
+State6: 93.0433     a13
+State7: 30.3197        
+State8: 65.7257     a31
+State9: 87.4001     a13
+State10: 87.4001     a23
+State11: 68.1709     a21
+The number of exploration is : 2
+The number of exploitation is : 9
+The total number of iteration is : 11
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 74.8119     a12
+State1: 84.2127     a13
+State2: 93.1231     a23
+State3: 95.9548     None
+State4: 75.8427     a32
+State5: 85.1769     a23
+State6: 92.2321     a13
+State7: 60.7776     a32
+State8: 74.9762     a31
+State9: 84.7176     a13
+State10: 84.7176     a23
+State11: 76.1778     a21
+The number of exploration is : 3
+The number of exploitation is : 9
+The total number of iteration is : 12
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 73.6395     a12
+State1: 82.9421     a13
+State2: 92.3359     a23
+State3: 96.5168     None
+State4: 74.2514     a32
+State5: 83.5419     a23
+State6: 91.7386     a13
+State7: 65.2363     a32
+State8: 73.718     a31
+State9: 83.313     a13
+State10: 83.313     a23
+State11: 74.4201     a21
+The number of exploration is : 4
+The number of exploitation is : 8
+The total number of iteration is : 12
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 72.9414     a12
+State1: 82.175     a13
+State2: 91.7994     a23
+State3: 96.9788     None
+State4: 73.3455     a32
+State5: 82.5823     a23
+State6: 91.3766     a13
+State7: 64.6145     a32
+State8: 72.985     a31
+State9: 82.4534     a13
+State10: 82.4534     a23
+State11: 73.442     a21
+The number of exploration is : 5
+The number of exploitation is : 8
+The total number of iteration is : 13
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 72.4783     a12
+State1: 81.6624     a13
+State2: 91.4105     a23
+State3: 97.3449     None
+State4: 72.7647     a32
+State5: 81.9564     a23
+State6: 91.097     a13
+State7: 64.2026     a32
+State8: 72.5049     a31
+State9: 81.8771     a13
+State10: 81.8771     a23
+State11: 72.8249     a21
+The number of exploration is : 6
+The number of exploitation is : 8
+The total number of iteration is : 14
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 72.1486     a12
+State1: 81.2958     a13
+State2: 91.1158     a23
+State3: 97.6369     None
+State4: 72.3621     a32
+State5: 81.5179     a23
+State6: 90.8747     a13
+State7: 63.9096     a32
+State8: 72.1661     a31
+State9: 81.4658     a13
+State10: 81.4658     a23
+State11: 72.4021     a21
+The number of exploration is : 7
+The number of exploitation is : 8
+The total number of iteration is : 15
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 71.9019     a12
+State1: 81.0208     a13
+State2: 90.885     a23
+State3: 97.8735     None
+State4: 72.0672     a32
+State5: 81.1944     a23
+State6: 90.6941     a13
+State7: 63.6905     a32
+State8: 71.914     a31
+State9: 81.1583     a13
+State10: 81.1583     a23
+State11: 72.0951     a21
+The number of exploration is : 8
+The number of exploitation is : 8
+The total number of iteration is : 16
+-------------------------------------------------------------------------
+
+The optimal Q values and optimal policies are: 
+
+State0: 71.7104     a12
+State1: 80.8069     a13
+State2: 90.6994     a23
+State3: 98.0683     None
+State4: 71.8421     a32
+State5: 80.9462     a23
+State6: 90.5446     a13
+State7: 63.5204     a32
+State8: 71.7191     a31
+State9: 80.9203     a13
+State10: 80.9203     a23
+State11: 71.8623     a21
+The number of exploration is : 9
+The number of exploitation is : 8
+The total number of iteration is : 17
+-------------------------------------------------------------------------
+
